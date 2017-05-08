@@ -3,4 +3,3 @@ def test():
     print("world")
     nihao
     123
-    456
